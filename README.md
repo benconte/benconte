@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **benconte/benconte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -28,16 +26,16 @@ I'm a passionate developer with expertise in various technologies and stacks. My
 - **State Management**: Redux, React Query
 - **UI Frameworks**: Tailwind CSS, Styled Components, Bootstrap
 
-  ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg)
-  ![TypeScript](https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg)
-  ![HTML](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg)
-  ![CSS](https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg)
-  ![React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
-  ![Next.js](https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg)
-  ![React Native](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
-  ![Expo](https://docs.expo.io/static/images/header-logo.svg)
-  ![Redux](https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png)
-  ![Tailwind CSS](https://upload.wikimedia.org/wikipedia/commons/3/36/Tailwind_CSS_logo.svg)
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript" width="30" height="30">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript" width="30" height="30">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="30" height="30">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" width="30" height="30">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="30" height="30">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="Next.js" width="30" height="30">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Native" width="30" height="30">
+  <img src="https://docs.expo.io/static/images/header-logo.svg" alt="Expo" width="30" height="30">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" alt="Redux" width="30" height="30">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Tailwind_CSS_logo.svg" alt="Tailwind CSS" width="30" height="30">
 
 ### Backend Development
 - **Languages**: JavaScript (Node.js), Python, Java
@@ -46,28 +44,28 @@ I'm a passionate developer with expertise in various technologies and stacks. My
 - **ORM**: Prisma
 - **RESTful APIs**
 
-  ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg)
-  ![Node.js](https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg)
-  ![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
-  ![Java](https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg)
-  ![Nest.js](https://nestjs.com/img/logo_text.svg)
-  ![Express](https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png)
-  ![Django](https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg)
-  ![MongoDB](https://upload.wikimedia.org/wikipedia/en/4/45/MongoDB-Logo.svg)
-  ![PostgreSQL](https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg)
-  ![MySQL](https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg)
-  ![Prisma](https://www.prisma.io/images/logos/prisma-logo-gradient.svg)
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript" width="30" height="30">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" width="30" height="30">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="30" height="30">
+  <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" width="30" height="30">
+  <img src="https://nestjs.com/img/logo_text.svg" alt="Nest.js" width="30" height="30">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express" width="30" height="30">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg" alt="Django" width="30" height="30">
+  <img src="https://upload.wikimedia.org/wikipedia/en/4/45/MongoDB-Logo.svg" alt="MongoDB" width="30" height="30">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" width="30" height="30">
+  <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" alt="MySQL" width="30" height="30">
+  <img src="https://www.prisma.io/images/logos/prisma-logo-gradient.svg" alt="Prisma" width="30" height="30">
 
 ### DevOps & Deployment
 - **Cloud Platforms**: AWS (Amazon Web Services), Vercel, Firebase
 - **Containerization**: Docker
 - **Package Managers**: npm, pip
 
-  ![AWS](https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg)
-  ![Vercel](https://upload.wikimedia.org/wikipedia/commons/8/81/Vercel-Logo-2021.svg)
-  ![Docker](https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg)
-  ![npm](https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg)
-  ![Firebase](https://firebase.google.com/downloads/brand-guidelines/PNG/logo-built_white.png)
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="30" height="30">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/Vercel-Logo-2021.svg" alt="Vercel" width="30" height="30">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" alt="Docker" width="30" height="30">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" alt="npm" width="30" height="30">
+  <img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-built_white.png" alt="Firebase" width="30" height="30">
 
 ### Additional Skills
 - **Web Sockets**
@@ -75,12 +73,12 @@ I'm a passionate developer with expertise in various technologies and stacks. My
 - **Testing**: Jest, Mocha, Chai
 - **Version Control**: Git
 
-  ![Web Sockets](https://upload.wikimedia.org/wikipedia/commons/4/47/Socket-io.svg)
-  ![JWT](https://jwt.io/img/pic_logo.svg)
-  ![Jest](https://jestjs.io/img/jest.svg)
-  ![Mocha](https://mochajs.org/static/img/mocha-logo.svg)
-  ![Chai](https://www.chaijs.com/img/chai-logo.png)
-  ![Git](https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg)
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Socket-io.svg" alt="Web Sockets" width="30" height="30">
+  <img src="https://jwt.io/img/pic_logo.svg" alt="JWT" width="30" height="30">
+  <img src="https://jestjs.io/img/jest.svg" alt="Jest" width="30" height="30">
+  <img src="https://mochajs.org/static/img/mocha-logo.svg" alt="Mocha" width="30" height="30">
+  <img src="https://www.chaijs.com/img/chai-logo.png" alt="Chai" width="30" height="30">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git" width="30" height="30">
 
 ## Projects
 Here are some projects I've worked on:
@@ -99,7 +97,7 @@ Here are some projects I've worked on:
      
 4. **Instagram Clone**: An instagram clone with user authentication, posting, following/unfollow, search
    - **Tech Used**: React, Javascript, Mysql, Django auth (authentication), redux (state management), React, Tailwindcss, Django, Python, Django Rest Framework
-   - **GitHub Link**: [Link to the GitHub repository](https://github.com/benconte/lobby)
+   - **GitHub Link**: [Link to the GitHub repository](https://github.com/benconte/instagram_clone)
 
 5. more------
 
