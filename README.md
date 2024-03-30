@@ -25,12 +25,12 @@ I'm a passionate developer with expertise in various technologies and stacks. My
 ### Frontend Development
 - **Languages**: JavaScript, TypeScript, HTML, CSS
 - **Frameworks/Libraries**: React, Next.js, React Native, Expo
-- **State Management**: Redux
-- **UI Frameworks**: Tailwind CSS
+- **State Management**: Redux, React Query
+- **UI Frameworks**: Tailwind CSS, Styled Components, Bootstrap
 
 ### Backend Development
 - **Languages**: JavaScript (Node.js), Python, Java
-- **Frameworks/Libraries**: Nest.js, Express, Django
+- **Frameworks/Libraries**: Nest.js, Express, Django, Node.js, Next.js
 - **Database**: MongoDB, PostgreSQL, MySQL
 - **ORM**: Prisma
 - **RESTful APIs**
@@ -38,7 +38,7 @@ I'm a passionate developer with expertise in various technologies and stacks. My
 ### DevOps & Deployment
 - **Cloud Platforms**: AWS (Amazon Web Services), Vercel
 - **Containerization**: Docker
-- **Package Managers**: npm
+- **Package Managers**: npm, pip
 
 ### Additional Skills
 - **Web Sockets**
