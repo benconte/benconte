@@ -36,7 +36,7 @@ I'm a passionate developer with expertise in various technologies and stacks. My
 - **RESTful APIs**
 
 ### DevOps & Deployment
-- **Cloud Platforms**: AWS (Amazon Web Services), Vercel
+- **Cloud Platforms**: AWS (Amazon Web Services), Vercel, Firebase
 - **Containerization**: Docker
 - **Package Managers**: npm, pip
 
