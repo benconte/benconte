@@ -70,7 +70,7 @@ Here are some projects I've worked on:
 ## Get in Touch
 Feel free to reach out to me through the following channels:
 - **Email**: [augustehirwa@gmail.com](mailto:augustehirwa@gmail.com)
-- **LinkedIn**: (https://www.linkedin.com/in/hirwa-auguste-7bba9a22a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BLcJAJtETRWKhwDWPFmXy9Q%3D%3D)
+- **LinkedIn**: [My linkedin profile](https://www.linkedin.com/in/hirwa-auguste-7bba9a22a/)
 - **Website/Blog**: COMING SOON
 
 Let's connect and collaborate on exciting projects!
