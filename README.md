@@ -38,7 +38,7 @@ I'm a passionate developer with expertise in various technologies and stacks. My
   [<img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Tailwind_CSS_logo.svg" alt="Tailwind CSS" width="30" height="30">](https://tailwindcss.com/)
 
 ### Backend Development
-- **Languages**: JavaScript (Node.js), Python, Java
+- **Languages**: JavaScript (Node.js), Python, Java, TypeScript
 - **Frameworks/Libraries**: Nest.js, Express, Django, Node.js, Next.js
 - **Database**: MongoDB, PostgreSQL, MySQL
 - **ORM**: Prisma
@@ -48,6 +48,7 @@ I'm a passionate developer with expertise in various technologies and stacks. My
   [<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" width="30" height="30">](https://nodejs.org/)
   [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="30" height="30">](https://www.python.org/)
   [<img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" width="30" height="30">](https://www.java.com/)
+  [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript" width="30" height="30">](https://www.typescriptlang.org/)
   [<img src="https://nestjs.com/img/logo_text.svg" alt="Nest.js" width="30" height="30">](https://nestjs.com/)
   [<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express" width="30" height="30">](https://expressjs.com/)
   [<img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg" alt="Django" width="30" height="30">](https://www.djangoproject.com/)
