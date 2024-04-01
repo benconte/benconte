@@ -111,6 +111,6 @@ Here are some projects I've worked on:
 Feel free to reach out to me through the following channels:
 - **Email**: [augustehirwa@gmail.com](mailto:augustehirwa@gmail.com)
 - **LinkedIn**: [My linkedin profile](https://www.linkedin.com/in/hirwa-auguste-7bba9a22a/)
-- **Website/Blog**: COMING SOON
+- **Website/Blog**: [My portfolio](https://dev-auguste.netlify.app/)
 
 Let's connect and collaborate on exciting projects!
