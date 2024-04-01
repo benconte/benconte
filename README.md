@@ -58,7 +58,7 @@ I'm a passionate developer with expertise in various technologies and stacks. My
   [<img src="https://www.prisma.io/images/logos/prisma-logo-gradient.svg" alt="Prisma" width="30" height="30">](https://www.prisma.io/)
 
 ### DevOps & Deployment
-- **Cloud Platforms**: AWS (Amazon Web Services), Vercel, Firebase
+- **Cloud Platforms**: Vercel, Firebase
 - **Containerization**: Docker
 - **Package Managers**: npm, pip
 
@@ -72,7 +72,7 @@ I'm a passionate developer with expertise in various technologies and stacks. My
 ### Additional Skills
 - **Web Sockets**
 - **Authentication**: JWT
-- **Testing**: Jest, Mocha, Chai
+- **Testing**: Jest
 - **API Development & Testing**: [Postman](https://www.postman.com/)
 - **Module Bundler**: [Webpack](https://webpack.js.org/)
 - **Version Control**: Git
@@ -80,8 +80,6 @@ I'm a passionate developer with expertise in various technologies and stacks. My
   [<img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Socket-io.svg" alt="Web Sockets" width="30" height="30">](https://socket.io/)
   [<img src="https://jwt.io/img/pic_logo.svg" alt="JWT" width="30" height="30">](https://jwt.io/)
   [<img src="https://jestjs.io/img/jest.svg" alt="Jest" width="30" height="30">](https://jestjs.io/)
-  [<img src="https://mochajs.org/static/img/mocha-logo.svg" alt="Mocha" width="30" height="30">](https://mochajs.org/)
-  [<img src="https://www.chaijs.com/img/chai-logo.png" alt="Chai" width="30" height="30">](https://www.chaijs.com/)
   [<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git" width="30" height="30">](https://git-scm.com/)
   [<img src="https://www.postman.com/assets/logos/postman-logo-stacked.svg" alt="Postman" width="30" height="30">](https://www.postman.com/)
   [<img src="https://webpack.js.org/e0b5805d423a4ec947ebffdbb9e5f077.svg" alt="Webpack" width="30" height="30">](https://webpack.js.org/)
