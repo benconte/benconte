@@ -23,7 +23,7 @@ I'm a passionate developer with expertise in various technologies and stacks. My
 ### Frontend Development
 - **Languages**: JavaScript, TypeScript, HTML, CSS
 - **Frameworks/Libraries**: React, Next.js, React Native, Expo
-- **State Management**: Redux, React Query
+- **State Management**: Redux, React Query, Zustand
 - **UI Frameworks**: Tailwind CSS, Styled Components, Bootstrap
 
   [<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript" width="30" height="30">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
